@@ -2,7 +2,7 @@
 
 A lightweight, cross-platform application for measuring your internet connection's performance metrics including ping, download, and upload speeds with real-time graphical feedback.
 
-![Network Speed Test Screenshot](./image.jpg)
+![Network Speed Test Screenshot](./image.png)
 
 ## Features
 
