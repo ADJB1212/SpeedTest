@@ -13,7 +13,6 @@ $(EXECUTABLE): $(OBJ)
 	rm -f $(OBJ)
 	./$(EXECUTABLE)
 
-
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
